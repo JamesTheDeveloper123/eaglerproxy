@@ -46,7 +46,7 @@ export const config: Config = {
       originBlacklist: null,
     },
     server: {
-      host: "127.0.0.1",
+      host: "finnfoden-eZhq.aternos.me",
       port: 1111,
     },
     tls: undefined,
