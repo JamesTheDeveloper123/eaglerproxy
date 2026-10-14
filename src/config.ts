@@ -47,7 +47,7 @@ export const config: Config = {
     },
     server: {
       host: "finnfoden-eZhq.aternos.me",
-      port: 1111,
+      port: 29248,
     },
     tls: undefined,
   },
